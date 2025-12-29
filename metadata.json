@@ -1,0 +1,5 @@
+{
+  "name": "Tiny Farm Simulator",
+  "description": "A simplified, real-time farming simulator demo featuring crop growth based on real-world timestamps, gold management, and persistent progress.",
+  "requestFramePermissions": []
+}
