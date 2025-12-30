@@ -44,4 +44,14 @@ export interface PlayerState {
   maxXp: number;
   name: string;
   vip: number;
+  farmhouseLevel: number;
+  unlockedDecorations: string[];
+}
+
+export interface DecorationItem {
+  id: string;
+  name: string;
+  emoji: string;
+  price: number;
+  description: string;
 }
